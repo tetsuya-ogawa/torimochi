@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{search scraping}
   spec.description   = %q{search scraping}
-  spec.homepage      = "https://github"
+  spec.homepage      = "https://github.com/tetsuya-ogawa/torimochi"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
