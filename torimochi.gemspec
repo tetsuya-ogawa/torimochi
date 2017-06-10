@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "torimochi"
   spec.version       = Torimochi::VERSION
   spec.authors       = ["Tetsuya Ogawa"]
-  spec.email         = ["tetsuya.ogawa@theport.jp"]
+  spec.email         = ["tetsuya.ogawa87@gmail.com"]
 
   spec.summary       = %q{search scraping}
   spec.description   = %q{search scraping}
