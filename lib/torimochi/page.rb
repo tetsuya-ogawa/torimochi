@@ -2,7 +2,6 @@ require 'torimochi/scrapable'
 module Torimochi
   class Page
     include Scrapable
-
     attr_accessor :url, :agent, :page
 
     def initialize(url)
